@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>About Habib Jahshan</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    h1 {
+      color: blue;
+    }
+    footer {
+      font-size: 12px;
+      text-align: right;
+      margin-top: 20px;
+      border-top: 1px solid #ccc;
+      padding-top: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <nav>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">School</a></li>
+    </ul>
+  </nav>
+
+  <h1>Habib Jahshan</h1>
+
+  <p>
+    Hello, my name is Habib Jahshan and I'm a student at El Camino College. I'm also a server at a restaurant in Torrance, California. I have a passion for learning and am particularly interested in new AI tools. When I'm not studying or working, I enjoy hanging out at the beach and spending quality time with my family. My favorite website is ChatGPT on chat.openai.com because I love the capabilities of the GPT models.
+  </p>
+
+  <h2>Things I Like to Do in My Free Time</h2>
+  <ul>
+    <li>Hang out at the beach</li>
+    <li>Spend time with my family</li>
+    <li>Research new AI tools</li>
+  </ul>
+
+  <h2>Education Goals</h2>
+  <ul>
+    <li>Complete a Bachelor's in Computer Inormation Systems</li>
+    <li>Attain a Master's in Artificial Intelligence</li>
+    <li>Attend conferences on emerging technologies</li>
+  </ul>
+
+  <h2>Skills</h2>
+  <ul>
+    <li>Python Programming</li>
+    <li>Network Analysis</li>
+    <li>Web Development</li>
+  </ul>
+
+  <h2>Favorite Website</h2>
+  <a href="https://chat.openai.com" target="_blank">Visit my favorite website, ChatGPT</a>
+
+  <footer>
+    Last updated: September 25, 2023 | Contact: <a href="mailto:fake.email@example.com">fake.email@example.com</a>
+  </footer>
+
+</body>
+</html>
