@@ -1,0 +1,71 @@
+/* Styles for the body */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Styles for the header */
+header {
+    background-color: #50b3a2;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Styles for h1 */
+h1 {
+    color: blue;
+    font-size: 2em;
+}
+
+/* Styles for nav ul */
+nav ul {
+    background-color: #333;
+    overflow: hidden;
+    color: white;
+    padding: 0;
+    text-align: center;
+    margin: 0;
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Styles for section */
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+}
+
+/* Styles for p:hover and p:focus */
+p:hover, p:focus {
+    font-style: italic;
+}
+
+/* Styles for .shadow class */
+.shadow {
+    box-shadow: 5px 5px 10px #800000;
+}
+
+/* Styles for the footer */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
